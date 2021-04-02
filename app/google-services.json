@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313523308849",
+    "project_id": "cloudmsg-acb71",
+    "storage_bucket": "cloudmsg-acb71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313523308849:android:205d3636ae1f49f0454810",
+        "android_client_info": {
+          "package_name": "com.dilshan.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313523308849-keiur7kllg3c4g8l74cbadpkqr3kp3cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6z6pp6e7tyEKlk7R_Iy640SHbzcf4yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313523308849-keiur7kllg3c4g8l74cbadpkqr3kp3cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
